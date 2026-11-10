@@ -1,9 +1,10 @@
 # Promts
 
-## prompt1:
+## Prompt 1:
+
 ponte como rol de un desarrollador de software que le va a pasar un prompt a stitch para la creacion de una pagina web enfocada en noticias y reviews de videojuegos y filtros historicos por marca, estudio, calificaciones a estos videojuegos donde la idea principal sea transmitir la opinion de las personas acerca de estos y de paleta de colores sea fondo blanco con los colores rojo morado y verde para la pagina aparte su identidad debe ser llamativa, que sea responsive, mobile first y escalable a futuro teniendo sus limitaciones en ambito tecnologico 
-------------------------------------------------------------------------------------------------------
-## prompot 2:
+
+## Prompot 2:
 Rol: Ingeniero Frontend Senior y Arquitecto UI/UX
 Tarea: Generar la interfaz web interactiva y de alta fidelidad definitiva para "TUWU R3VIEWS", una plataforma de noticias de videojuegos, archivo histórico y reseñas de la comunidad.
 
@@ -28,8 +29,8 @@ Sección de Base de Datos de Reseñas (Reviews Database): Un catálogo/tabla de 
 Sección de Guardados / Marcadores (Saved): Espacio dedicado que muestra reseñas guardadas y artículos marcados para acceso rápido del usuario.
 Sección de Archivo Histórico (Historical): Una línea de tiempo y matriz de filtros organizada por generaciones de consolas, estudios históricos y años de lanzamiento de legado.
 Genera el prototipo wireframe definitivo incorporando estas especificaciones exactas.
----------------------------------------------------
-## prompt 3: 
+
+## Prompt 3: 
 Rol: Arquitecto Full-Stack de React y UI/UX
 Tarea: Construir una aplicación web multipágina lista para producción llamada "TUWU R3VIEWS" utilizando React, Tailwind CSS, TypeScript y React Router para el enrutamiento multipágina. La plataforma está dedicada a noticias de videojuegos, una base de datos completa de reseñas, reseñas guardadas, un archivo histórico, galerías visuales integradas y conectividad en vivo.
 
